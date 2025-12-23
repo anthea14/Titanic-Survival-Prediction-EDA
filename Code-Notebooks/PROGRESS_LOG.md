@@ -19,9 +19,9 @@ A personal 30-day challenge where I implement and explore different machine lear
 ---
 
 ## **Progress Statistics**
-- **Completed:** 3/30 days
-- **Pending:** 27/30 days
-- **Current Streak:** 2 days
-- **Best Streak:** 2 days
+- **Completed:** 4/30 days
+- **Pending:** 26/30 days
+- **Current Streak:** 3 days
+- **Best Streak:** 3 days
 
 ---
