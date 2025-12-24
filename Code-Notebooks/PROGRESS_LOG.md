@@ -16,12 +16,13 @@ A personal 30-day challenge where I implement and explore different machine lear
 | 2 | Dec 21 2025 | Univariate, Bivariate & Multivariate Analysis | ✅ Complete | Different types of data analysis, visualization techniques |
 | 3 | Dec 22 2025 | Simple Linear Regression | ✅ Complete | Simple Linear Regression, Train_Test_split, Best fit line |
 | 4 | Dec 23 2025 | Ridge & Lasso Regression | ✅ Complete | Linear Regression, Ridge and Lasso Regression Comparison |
+| 5 | Dec 24 2025 | Multiple Linear Regression | ✅ Complete | Linear Regression with multiple Independent features, R2 score evaluation metric |
 ---
 
 ## **Progress Statistics**
-- **Completed:** 4/30 days
-- **Pending:** 26/30 days
-- **Current Streak:** 3 days
-- **Best Streak:** 3 days
+- **Completed:** 5/30 days
+- **Pending:** 25/30 days
+- **Current Streak:** 4 days
+- **Best Streak:** 4 days
 
 ---
