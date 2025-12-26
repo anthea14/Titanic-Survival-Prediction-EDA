@@ -17,12 +17,14 @@ A personal 30-day challenge where I implement and explore different machine lear
 | 3 | Dec 22 2025 | Simple Linear Regression | ✅ Complete | Simple Linear Regression, Train_Test_split, Best fit line |
 | 4 | Dec 23 2025 | Ridge & Lasso Regression | ✅ Complete | Linear Regression, Ridge and Lasso Regression Comparison |
 | 5 | Dec 24 2025 | Multiple Linear Regression | ✅ Complete | Linear Regression with multiple Independent features, R2 score evaluation metric |
+| 6 | Dec 25 2025 | Linear Regression From Scratch | ✅ Complete | Linear Regression without any in-built libraries |
+| 7 | Dec 26 2025 | Perceptron | ✅ Complete | The Maths behind Perceptrons |
 ---
 
 ## **Progress Statistics**
-- **Completed:** 5/30 days
-- **Pending:** 25/30 days
-- **Current Streak:** 4 days
-- **Best Streak:** 4 days
+- **Completed:** 7/30 days
+- **Pending:** 23/30 days
+- **Current Streak:** 6 days
+- **Best Streak:** 6 days
 
 ---
